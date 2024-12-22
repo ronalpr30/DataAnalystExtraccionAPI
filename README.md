@@ -81,3 +81,4 @@ Identificación de patrones de juego y estrategias comunes.
 Visualización de los torneos y sus resultados de manera organizada.
 
 Información valiosa para equipos y organizadores de torneos.
+![image](https://github.com/user-attachments/assets/fc7ffa03-08f3-4b7e-887d-1fd69a4af36c)
